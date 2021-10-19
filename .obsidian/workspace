@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "a2394f5a312e59f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c450ad7deeb3cbc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fbfb50a18691030c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e635a6f5f2976f1e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdb4cb10c878aa48",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9604c6655e53f0a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b99f72583539970",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d8cd28875365f31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5755493708d3031c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0c450ad7deeb3cbc",
+  "lastOpenFiles": [
+    "Git.md",
+    "Repo.md",
+    "Branch.md",
+    "CmdLine.md"
+  ]
+}
